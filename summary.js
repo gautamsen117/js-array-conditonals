@@ -4,3 +4,8 @@ destination[2] = 'thailand';
 var index = destination.indexOf('bhali');
 destination.push('bhutan');
 destination.pop();
+
+
+//conditionals
+// < , > , == , != , <= , >=
+// && ||

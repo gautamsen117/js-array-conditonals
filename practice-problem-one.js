@@ -1,3 +1,8 @@
+// You are given an array:
+// var fruit = ['Apple', 'Banana', 'Orange'];
+// a) Find the index of 'Banana' and replace 'Banana' with 'Mango'.
+// b) Remove 'Orange' and add 'Watermelon'.
+
 var fruit = ['Apple', 'Banana', 'Orange'];
 // i will try find index of Banana
 console.log(fruit[1]);
